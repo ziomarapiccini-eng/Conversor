@@ -19,7 +19,7 @@ Estilos / UI: (Ej: CSS3 / Tailwind CSS / Bootstrap)
 
 Herramientas de construcción: (Ej: Node.js / Maven / Gradle)
 
-⚙️ Instalación y Uso
+Instalación y Uso
 
 Sigue estos sencillos pasos para ejecutar el proyecto de manera local:
 
@@ -72,7 +72,6 @@ Haz un Push a la rama (git push origin feature/NuevaFuncion).
 
 Abre un Pull Request.
 
- Autores y Créditos
 
 Ziomara Piccini - ziomarapiccini-eng
 
